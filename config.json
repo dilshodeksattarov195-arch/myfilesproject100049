@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdetch",
+        "uuid": 46550,
+        "checksum": "gsz5il"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
